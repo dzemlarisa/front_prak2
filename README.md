@@ -1,4 +1,5 @@
 Сервер на Nodejs + Express
+
 Эндпоинты
 - GET /products - получить все товары
 - GET /products/:id - получить товар по ID
